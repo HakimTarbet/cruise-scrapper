@@ -1,2 +1,1 @@
-# Cruise-Srapper: Cruise data scrapping script |Build Status|
-=============================================================
+# Cruise-Srapper: Cruise data scrapping script writen in Python
